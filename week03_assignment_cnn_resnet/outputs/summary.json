@@ -1,0 +1,4 @@
+{
+    "cnn_best_test_accuracy": 80.81,
+    "resnet_best_test_accuracy": 89.03
+}

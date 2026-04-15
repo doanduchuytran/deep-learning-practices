@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 # =========================================================
 BATCH_SIZE = 64
 LEARNING_RATE = 0.001
-NUM_EPOCHS = 10
+NUM_EPOCHS = 100
 NUM_CLASSES = 10
 DATA_DIR = "./data"
 OUTPUT_DIR = "./outputs"
