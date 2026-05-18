@@ -8,7 +8,7 @@ def main():
 
     results = model.train(
         data="configs/helmet.yaml",
-        epochs=100,
+        epochs=20,
         imgsz=640,
         batch=16,
         workers=4,
